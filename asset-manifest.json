@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AlexPointBuy/static/css/main.5f361e03.chunk.css",
+    "main.js": "/AlexPointBuy/static/js/main.211bae3f.chunk.js",
+    "main.js.map": "/AlexPointBuy/static/js/main.211bae3f.chunk.js.map",
+    "runtime-main.js": "/AlexPointBuy/static/js/runtime-main.b7943eef.js",
+    "runtime-main.js.map": "/AlexPointBuy/static/js/runtime-main.b7943eef.js.map",
+    "static/js/2.3f1bb5d4.chunk.js": "/AlexPointBuy/static/js/2.3f1bb5d4.chunk.js",
+    "static/js/2.3f1bb5d4.chunk.js.map": "/AlexPointBuy/static/js/2.3f1bb5d4.chunk.js.map",
+    "index.html": "/AlexPointBuy/index.html",
+    "precache-manifest.0621840f2a0d88a5a93d04272a6f91d1.js": "/AlexPointBuy/precache-manifest.0621840f2a0d88a5a93d04272a6f91d1.js",
+    "service-worker.js": "/AlexPointBuy/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/AlexPointBuy/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.3f1bb5d4.chunk.js.LICENSE.txt": "/AlexPointBuy/static/js/2.3f1bb5d4.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/AlexPointBuy/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7943eef.js",
+    "static/js/2.3f1bb5d4.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.211bae3f.chunk.js"
+  ]
+}
