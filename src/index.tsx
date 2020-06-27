@@ -1,7 +1,9 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import App from './App';
+import * as React from "react";
+import * as ReactDOM from "react-dom";
+window.React = React;
+import { Hello } from "./components/Hello";
 
-import 'bootstrap/dist/css/bootstrap.min.css';
-
-ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(
+    <Hello compiler="Typescript" framework="React" />,
+    document.getElementById("example"),
+);
